@@ -1,0 +1,14 @@
+C:\Amal Roy\Day1\HandsOn Project\AssignmentDay6\bin\Debug\net8.0\AssignmentDay6.exe
+C:\Amal Roy\Day1\HandsOn Project\AssignmentDay6\bin\Debug\net8.0\AssignmentDay6.deps.json
+C:\Amal Roy\Day1\HandsOn Project\AssignmentDay6\bin\Debug\net8.0\AssignmentDay6.runtimeconfig.json
+C:\Amal Roy\Day1\HandsOn Project\AssignmentDay6\bin\Debug\net8.0\AssignmentDay6.dll
+C:\Amal Roy\Day1\HandsOn Project\AssignmentDay6\bin\Debug\net8.0\AssignmentDay6.pdb
+C:\Amal Roy\Day1\HandsOn Project\AssignmentDay6\obj\Debug\net8.0\AssignmentDay6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Amal Roy\Day1\HandsOn Project\AssignmentDay6\obj\Debug\net8.0\AssignmentDay6.AssemblyInfoInputs.cache
+C:\Amal Roy\Day1\HandsOn Project\AssignmentDay6\obj\Debug\net8.0\AssignmentDay6.AssemblyInfo.cs
+C:\Amal Roy\Day1\HandsOn Project\AssignmentDay6\obj\Debug\net8.0\AssignmentDay6.csproj.CoreCompileInputs.cache
+C:\Amal Roy\Day1\HandsOn Project\AssignmentDay6\obj\Debug\net8.0\AssignmentDay6.dll
+C:\Amal Roy\Day1\HandsOn Project\AssignmentDay6\obj\Debug\net8.0\refint\AssignmentDay6.dll
+C:\Amal Roy\Day1\HandsOn Project\AssignmentDay6\obj\Debug\net8.0\AssignmentDay6.pdb
+C:\Amal Roy\Day1\HandsOn Project\AssignmentDay6\obj\Debug\net8.0\AssignmentDay6.genruntimeconfig.cache
+C:\Amal Roy\Day1\HandsOn Project\AssignmentDay6\obj\Debug\net8.0\ref\AssignmentDay6.dll
